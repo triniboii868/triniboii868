@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Data Strcuture Lab](Github URL here)
+  - [Data Structure Lab](Github URL here)
 
 - <b>PowerShell</b>
   - [Sample Project (CMDLine](Github URL here)
