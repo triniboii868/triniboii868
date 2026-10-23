@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marc! <br/><a href="https://github.com/triniboii868">Programmer</a>, <a href="https://www.youtube.com/watch?v=IkFQxjc6Wpg">Student Athlete</a>, <a href="https://www.youtube.com/@MarcRobertson-z5h">YouTuber</a></h1>
+<h1>Hi, I'm Marc! <br/><a href="https://github.com/triniboii868">Programmer</a>, <a href="https://www.youtube.com/watch?v=IkFQxjc6Wpg">Athlete</a>, <a href="https://www.youtube.com/@MarcRobertson-z5h">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
